@@ -6,7 +6,7 @@ A Zotero translator for Korean Citation Index (KCI) www.kci.go.kr articles.
 
 ## Features
 
-- Extracts metadata from KCI articles:
+- Extracts korean metadata from KCI articles:
   - Title, Authors, Abstract
   - Keywords (Korean/English)
   - Journal info (name, volume, issue, pages, ISSN)
