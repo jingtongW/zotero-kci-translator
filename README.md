@@ -25,7 +25,3 @@ A Zotero translator for Korean Citation Index (KCI) www.kci.go.kr articles.
 1. Visit KCI article page
 2. Click Zotero connector icon
 3. Done!
-
-## Author
-
-Jingtong Wang
