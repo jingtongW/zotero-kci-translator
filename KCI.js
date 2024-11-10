@@ -1,7 +1,7 @@
 {
     "translatorID": "179714c7-b3a1-4dcd-8a5a-d9dc69121ff7",
     "label": "KCI",
-    "creator": "Your Name",
+    "creator": "tong",
     "target": "^https?://www\\.kci\\.go\\.kr/kciportal/ci/sereArticleSearch/ciSereArtiView\\.kci\\?sereArticleSearchBean\\.artiId=[A-Z0-9]+$",
     "minVersion": "3.0",
     "maxVersion": "",
