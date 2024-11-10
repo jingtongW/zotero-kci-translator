@@ -25,7 +25,3 @@
 1. KCI 논문 페이지 방문
 2. Zotero 커넥터 아이콘 클릭
 3. 완료!
-
-## 저자
-
-Jingtong Wang
